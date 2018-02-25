@@ -22,6 +22,10 @@ Well, glad you asked!
 Anyone can contribute to this version, since it's fully community-made!
 
 
+Just, please. Don't get carried away. Just make it better, not worse. 
+This isn't a playground, it's a community-made super project.
+
+
 ## Also, make sure to:
 
 * Be descriptive
