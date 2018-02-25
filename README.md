@@ -1,8 +1,8 @@
-# ULCPanel-Base
+# ULCPanel-FullCommunity
 ## Universal Linux Control Panel
 
 
-An open-source project for Linux distributions. This is the BASE version.
+An open-source project for Linux distributions. This is the FULLCOMMUNITY version.
 
 When installed, use this:
 
@@ -17,4 +17,4 @@ To ensure all the files work. The only things that should be in *`/scripts`* are
   
   
 Obviously, this is for any distribution of Linux, and is made to be versatile.
-Please make sure to report any non-user problems with this software.
+Solve your problems yourself by improving the FullCommunity version of ULCPanel!
